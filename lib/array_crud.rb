@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   my_array = ["food", "water", "money", "fun"]
-  random_array << "element"
+  my_array << element
 end
 
 def add_element_to_start_of_array(array, element)
